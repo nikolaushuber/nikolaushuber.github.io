@@ -1,0 +1,6 @@
+author = "Nikolaus Huber" 
+showShare = false 
+largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
+introDescription = "PhD Student @ Uppsala University"
+mainSections = ['blog']
+usePageBundles = true 

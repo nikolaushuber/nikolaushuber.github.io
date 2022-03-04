@@ -1,0 +1,14 @@
+{{ $pages := .Pages }}
+{{ if .IsHome }}
+  {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ end }}
+<div class="grid-4 wrap content">
+  <ul class="marbles row" id="marbles">
+    {{- range (.Paginate $pages).Pages }}
+      {{ partial "marble-card" . }}
+    {{- end }}
+    <li>
+      {{- template "_internal/pagination.html" . }}
+    </li>
+  </ul>
+</div>

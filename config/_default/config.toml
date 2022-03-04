@@ -1,0 +1,11 @@
+baseURL = 'https://www.n-huber.eu'
+languageCode = 'en-us'
+title = 'Nikolaus Huber'
+theme = "clarity"
+
+DefaultContentLanguage = "en" 
+
+[taxonomies]
+category = "categories"
+tag = "tags" 
+series = "series" 

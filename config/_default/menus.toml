@@ -1,0 +1,33 @@
+[[main]]
+    name = "Home"
+    url = ""
+    weight = -110 
+
+[[main]]
+    name = "Marbles"
+    url = "marbles/"
+    weight = -100
+
+[[main]]
+    name = "About" 
+    url = "about/" 
+    weight = -90
+
+
+[[social]]
+    name = "github" 
+    type = "social" 
+    weight = 1 
+    url = "https://github.com/nikolaushuber/" 
+
+[[social]]
+    name = "linkedin"
+    type = "social" 
+    weight = 2 
+    url = "https://www.linkedin.com/in/nikolaus-huber/"
+
+[[social]]
+    name = "twitter" 
+    type = "social" 
+    weight = 3
+    url = "https://twitter.com/NikolausHuber4"

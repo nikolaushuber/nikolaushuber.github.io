@@ -1,0 +1,83 @@
+@import "sass-flexbox/scss/main.scss"
+
+
+.marble
+  &_link, &_title
+    margin-bottom: 0
+    margin-left: 1rem 
+    margin-top: 0
+    font-size: 1.5rem
+  &_link
+    line-height: 1
+    > a
+      display: block
+      line-height: 1.35
+  &s
+    margin-top: 2rem
+  &_header
+    height: 50vh
+    max-height: 35rem
+    background-color: $bg
+    // background-image: url(/images/island.jpg)
+    background-size: cover
+    background-position: center
+    margin-top: 4.2rem
+    @media screen and (max-width: 992px)
+      height: 40vh
+      margin-top: 3rem
+    @media screen and (max-width: 667px)
+      height: 30vh
+    & + .content
+      padding-top: 0
+  &_item
+    // box-shadow: 0  2.25rem 1.25rem -1.25rem var(--shadow)
+    margin: 2rem
+    border-radius: 0.5rem
+    background: var(--post-bg)
+    padding: 0
+  &_thumbnail 
+      border-top-left-radius: 0.5rem 
+      border-top-right-radius: 0.5rem
+      display: block !important
+  &_tag
+    padding: 0.2rem 0.8rem
+    font-size: 0.8rem
+    &s
+      display: none
+      &.jswidgetopen
+        display: initial
+        position: fixed
+        top: 0
+        left: 0
+        height: 100vh
+        overflow-y: auto
+        width: 100vw
+        padding: 5rem 1.5rem
+        background: var(--translucent-light)
+        cursor: pointer
+        z-index: 999
+        overflow-y: auto
+      &_toggle
+        margin-top: 0.5rem
+        margin-left: 0.5rem
+        cursor: pointer
+  &_tag, &_share
+    margin: 0.5rem
+  &_share
+    display: inline-flex
+  &_meta
+    align-items: stretch
+    &, span
+      display: inline-flex
+      flex-flow: row wrap
+    span
+      align-items: center
+      margin-bottom: 0.5rem
+      @media screen and (min-width: 557px)
+        gap: 0.5rem 0
+      &:last-of-type
+        @media screen and (max-width: 667px)
+          margin-top: -0.5rem
+    .button
+      @media screen and (min-width: 667px)
+        margin: 0 0.5rem
