@@ -4,3 +4,6 @@ largeTwitterCard = false # set to true if you want to show a large twitter card 
 introDescription = "PhD Student @ Uppsala University"
 mainSections = ['blog']
 usePageBundles = true 
+footerLogo = "" 
+iconsDir = "icons/"
+enforceLightMode = true 

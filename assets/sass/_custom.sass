@@ -1,19 +1,38 @@
 @import "sass-flexbox/scss/main.scss"
 
+.unsplash
+  &_attribution
+    border-left: 2px solid $bg
+    font-size: 0.7rem
+    padding-left: 1rem 
+    margin-bottom: 0.5rem
+    > a 
+      text-decoration: underline !important 
+
+.marbles_group_header
+  background-color: $bg 
+  color: $haze
+  font-weight: bold
+  font-size: 1.5rem
+  border-radius: 0.5rem 
+  padding: 1rem
+  margin: 0rem 1rem
 
 .marble
   &_link, &_title
     margin-bottom: 0
     margin-left: 1rem 
     margin-top: 0
-    font-size: 1.5rem
+    font-size: 1.2rem
+    @media screen and (max-width: 992px)
+      margin-top: 2rem
   &_link
     line-height: 1
     > a
       display: block
       line-height: 1.35
   &s
-    margin-top: 2rem
+    margin-top: 1.5rem
   &_header
     height: 50vh
     max-height: 35rem
@@ -29,9 +48,11 @@
       height: 30vh
     & + .content
       padding-top: 0
+    &_image
+      border-radius: 0.5rem
   &_item
     // box-shadow: 0  2.25rem 1.25rem -1.25rem var(--shadow)
-    margin: 2rem
+    margin: 0.2rem 1.5rem
     border-radius: 0.5rem
     background: var(--post-bg)
     padding: 0

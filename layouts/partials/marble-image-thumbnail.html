@@ -5,14 +5,14 @@
     .img: image element (passed through imageConfig)
     .alt: alt text
     */}}
-  <div class="excerpt_thumbnail">
+  <div class="marble_thumbnail_container">
     <picture>
   
       {{/* Image is external. */}}
       {{- if strings.HasPrefix .file "http" -}}
-  
-        <img class="marble_thumbnail image_thumbnail image_external" src="{{ .file }}" alt="{{ .alt }}" loading="lazy" />
-  
+        <a href="{{ .link }}">
+            <img class="marble_thumbnail image_thumbnail image_external" src="{{ .file }}" alt="{{ .alt }}" loading="lazy" />
+         </a>
       {{/* Image is internal. */}}
       {{- else -}}
   
@@ -33,8 +33,9 @@
           {{ end }}
         {{ end }}
   
-        <img class="marble_thumbnail image_thumbnail image_internal" src="{{ .fileWeb }}" alt="{{ .alt }}" loading="lazy" decoding="async" width="{{ .img.Width }}" height="{{ .img.Height }}" />
-  
+        <a href="{{ .link }}">
+            <img class="marble_thumbnail image_thumbnail image_internal" src="{{ .fileWeb }}" alt="{{ .alt }}" loading="lazy" decoding="async" width="{{ .img.Width }}" height="{{ .img.Height }}" />
+        </a>
       {{- end -}}
   
     </picture>
