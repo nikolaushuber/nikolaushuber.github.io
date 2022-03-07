@@ -7,3 +7,4 @@ usePageBundles = true
 footerLogo = "" 
 iconsDir = "icons/"
 enforceLightMode = true 
+since=2021

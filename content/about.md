@@ -27,4 +27,8 @@ Should you have any remarks regarding the content of this webpage, please do not
 
 ## Privacy 
 
-Privacy and ownership of our own data is a growing concern. I have therefore decided to forego the (quite abundant) integration of profiling frameworks which collect data from the end user. I instead use a framework called [Plausible](https://plausible.io/). As you can see from their website, Plausible does not use cookies and does not collect personal data. It is compliant with GDPR, CCPA, and PECR. Therefore, you have not seen a 🍪 banner when you first open this webpage! 
+Privacy and ownership of our personal data is a growing concern. I have therefore decided to forego the (quite abundant) integration of profiling frameworks which collect data from the end user. I instead use a framework called [Plausible](https://plausible.io/). As you can see from their website, Plausible does not use cookies and does not collect personal data. It is compliant with GDPR, CCPA, and PECR. Therefore, you have not seen a 🍪 banner when you first open this webpage! 
+
+## Favicon 
+
+The favicon used for this page originates from the open source project [Twemoji](https://twemoji.twitter.com/). It is licensed under CC-BY 4.0: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
