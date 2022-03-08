@@ -1,4 +1,3 @@
-baseURL = 'https://nikolaushuber.github.io/'
 languageCode = 'en-us'
 title = 'Nikolaus Huber'
 theme = "clarity"
