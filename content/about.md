@@ -6,7 +6,7 @@ aliases = ["about-us", "contact"]
 author = "Nikolaus Huber"
 sidebar = false
 showDate = false
-showReadTime = false
+showReadTime = false 
 +++
 
 My name is Nikolaus Huber, and I am currently pursuing a PhD in computer science at Uppsala University. 
