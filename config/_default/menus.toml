@@ -3,14 +3,19 @@
     url = ""
     weight = -110 
 
-[[main]]
-    name = "Marbles"
-    url = "marbles/"
-    weight = -100
+#[[main]]
+#    name = "Marbles"
+#    url = "marbles/"
+#    weight = -100
 
 [[main]]
     name = "Teaching" 
     url = "teaching/"
+    weight = -95
+
+[[main]]
+    name = "Projects" 
+    url = "projects/" 
     weight = -95
 
 [[main]]

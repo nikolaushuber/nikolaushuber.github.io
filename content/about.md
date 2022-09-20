@@ -5,6 +5,8 @@ date = "2021-04-27"
 aliases = ["about-us", "contact"]
 author = "Nikolaus Huber"
 sidebar = false
+showDate = false
+showReadTime = false
 +++
 
 My name is Nikolaus Huber, and I am currently pursuing a PhD in computer science at Uppsala University. 
@@ -27,7 +29,9 @@ Should you have any remarks regarding the content of this webpage, please do not
 
 ## Privacy 
 
-Privacy and ownership of our personal data is a growing concern. I have therefore decided to forego the (quite abundant) integration of profiling frameworks which collect data from the end user. I instead use a framework called [Plausible](https://plausible.io/). As you can see from their website, Plausible does not use cookies and does not collect personal data. It is compliant with GDPR, CCPA, and PECR. Therefore, you have not seen a 🍪 banner when you first open this webpage! 
+Privacy and ownership of our personal data is a growing concern. I have therefore decided to forego the (quite abundant) integration of profiling frameworks which collect data from the end user. I instead use a framework called [Plausible](https://plausible.io/). As you can see from their website, Plausible does not use cookies and does not collect personal data. It is compliant with GDPR, CCPA, and PECR. Therefore, you have not seen a 🍪 banner when you first opened this webpage! 
+
+This page is brought to you through GitHub pages. You can have a look at their privacy statement [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
 
 ## Favicon 
 
