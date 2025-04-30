@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nikolaus Huber</title>
+    <link rel="icon" type="image/x-icon" href="code-slash.svg">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+
+<body>
+    <main>
+        <nav class="navbar navbar-expand-lg bg-secondary-subtle sticky-top">
+            <div class="container">
+                <div class="navbar-brand mb-0 h1">Nikolaus Huber</div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#section-education">Education</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#section-teaching">Teaching</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#section-publications">Publications</a>
+                        </li>
+                        <!-- <li class="nav-item">
+                            <a class="nav-link" href="#section-code">Code</a>
+                        </li> -->
+                    </ul>
+                    <ul class="navbar-nav my-2 my-lg-0">
+                        <li class="nav-item p-2">
+                            <a class="nav-link" href="https://github.com/nikolaushuber" target="_blank"><i class="bi-github" style="font-size: 1.2rem;"></i></a>
+                        </li>
+                        <li class="nav-item p-2">
+                            <a class="nav-link" href="https://www.linkedin.com/in/nikolaus-huber" target="_blank"><i class="bi-linkedin" style="font-size: 1.2rem;"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="row mt-5">
+              <div class="col-lg-4 text-center">
+                <img src="photo.png" width="60%">
+              </div>
+              <div class="col-lg-6 my-auto text-left">
+                <h3>About me</h3>
+                <p class="pt-2">I'm a PhD candidate in the Embedded Systems group at <strong>Uppsala University</strong>. My research interests are in the
+                    intersection between programming language research and embedded (real-time) systems design. Particular topics I'm interested in
+                    include programming language design, domain-specific languages, compiler and interpreter implementation, temporal and functional
+                    verification, and hardware platforms specifically made for embedded real-time applications.
+                </p>
+              </div>
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-sm-12">
+                    <h3 class="text-primary-emphasis" id="section-education" style="scroll-margin-top: 5rem;"><i class="p-3 bi-mortarboard" style="font-size: 2.3rem;"></i>Education</h3>
+                </div>
+                <div class="col-sm-12">
+                    <div class="card border-secondary mt-3" style="width: 100%;">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <span>PhD Computer Science with Specialization in Embedded Systems</span>
+                            <span class="badge rounded-pill text-bg-secondary">2019 - now</span>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-title">Uppsala University, Uppsala, Sweden</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="card border-secondary mt-3" style="width: 100%;">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <span>MSc Space Technology with Specialization in Spacecraft Design</span>
+                            <span class="badge rounded-pill text-bg-secondary">2017 - 2019</span>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-title">Luleå University of Technology, Kiruna, Sweden</p>
+                            <p class="card-text">
+                                Thesis: Porting Zephyr RTOS to the LEON/GRLIB SoC SPARC v8 architecture
+                                [<a href="https://urn.kb.se/resolve?urn=urn:nbn:se:ltu:diva-76055" target="_blank">link</a>]
+                                [<a href="papers/master_thesis.pdf" target="_blank">pdf</a>]
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="card border-secondary mt-3" style="width: 100%;">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <span>BSc Engineering Physics</span>
+                            <span class="badge rounded-pill text-bg-secondary">2012 - 2017</span>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-title">Vienna University of Technology, Vienna, Austria</p>
+                            <p class="card-text">
+                                Thesis: Extending the Software Environment of the qBounce Platform
+                                [<a href="papers/bachelor_thesis.pdf" target="_blank">pdf</a>]
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container mt-5">
+            <div class="col-sm-12">
+                <h3 class="text-success-emphasis" id="section-teaching" style="scroll-margin-top: 5rem;"><i class="p-3 bi-easel2" style="font-size: 2.3rem;"></i>Teaching</h3>
+            </div>
+            <div class="col-sm-12">
+                <div class="accordion mt-3">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                                Uppsala University
+                            </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+                            <div class="accordion-body">
+                                <ul>
+                                    <li>1DT106 - Programming Embedded Systems, main lecturer & course responsible (2021-2024) [<a href="https://uu-1dt106.github.io" target="_blank">slides</a>]</li>
+                                    <li>1DT108 - Programming Embedded Systems Project, main lecturer & course responsible (2021-2024)</li>
+                                    <li>1DT063 & 1DT004 - Real Time Systems, TA (2020)</li>
+                                    <li>1DT096 - Operating Systems and Process-Oriented Programming, TA (2020)</li>
+                                </ul>
+                            </div>
+                          </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                            Luleå University of Technology
+                          </button>
+                        </h2>
+                        <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
+                          <div class="accordion-body">
+                            <ul>
+                                <li>D0001R - Microcomputer engineering with space applications, TA (2017)</li>
+                                <li>R7018R - Spacecraft on board datahandling, TA (2017)</li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container mt-5">
+            <div class="col-sm-12">
+                <h3 class="text-danger-emphasis" id="section-publications" style="scroll-margin-top: 5rem;"><i class="p-3 bi-pen" style="font-size: 2.3rem;"></i>Publications</h3>
+            </div>
+            <div class="col-sm-12">
+                <div class="card border-secondary mt-3" style="width: 100%;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span>Mimosa: A Language for Asynchronous Implementation of Embedded Systems Software</span>
+                        <div class="d-flex align-items-center">
+                            <!-- <span class="badge text-bg-warning"><a class="link-body-emphasis link-underline-opacity-0" href="https://doi.org/10.1007/978-3-031-73887-6_18" target="_blank">DOI</a></span> -->
+                            <span class="badge text-bg-primary me-2"><a class="link-body-emphasis link-underline-opacity-0" href="https://arxiv.org/pdf/2503.02557" target="_blank">Preprint</a></span>
+                            <span class="badge text-bg-success"><a class="link-body-emphasis link-underline-opacity-0" href="https://doi.org/10.5281/zenodo.14963241" target="_blank">Artifact</a></span>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-title">Nikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi</p>
+                        <p class="card-text">
+                            International Conference on Coordination Models and Languages (COORDINATION) 2025
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <div class="card border-secondary mt-3" style="width: 100%;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span>Dynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM</span>
+                        <div class="d-flex align-items-center">
+                            <!-- <span class="badge text-bg-warning"><a class="link-body-emphasis link-underline-opacity-0" href="https://dx.doi.org/10.4204/EPTCS.417.1" target="_blank">DOI</a></span> -->
+                            <span class="badge text-bg-primary me-2"><a class="link-body-emphasis link-underline-opacity-0" href="papers/tacas2025.pdf" target="_blank">Preprint</a></span>
+                            <span class="badge text-bg-success me-2"><a class="link-body-emphasis link-underline-opacity-0" href="https://doi.org/10.5281/zenodo.13988146" target="_blank">Artifact</a></span>
+                            <span class="badge text-bg-danger"><a class="link-body-emphasis link-underline-opacity-0" href="https://github.com/ocaml-gospel/ortac" target="_blank">Code</a></span>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-title">Nikolaus Huber, Naomi Spargo, Nicolas Osborne, Samuel Hym, Jan Midtgaard</p>
+                        <p class="card-text">
+                            International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2025
+                        </p>
+                        <p class="card-text text-warning-emphasis">
+                            ETAPS Distinguished Paper
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <div class="card border-secondary mt-3" style="width: 100%;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span>Timing is all you need</span>
+                        <div class="d-flex align-items-center">
+                            <span class="badge text-bg-warning"><a class="link-body-emphasis link-underline-opacity-0" href="https://doi.org/10.1007/978-3-031-73887-6_18" target="_blank">DOI</a></span>
+                            <span class="badge text-bg-primary mx-2"><a class="link-body-emphasis link-underline-opacity-0" href="https://hal.science/hal-04785715/document" target="_blank">Preprint</a></span>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-title">Susanne Graf, Bengt Jonsson, Behnam Khodabandeloo, Chengzi Huang, Nikolaus Huber, Philipp Rümmer, Wang Yi</p>
+                        <p class="card-text">
+                            The Combined Power of Research, Education, and Dissemination: Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12">
+                <div class="card border-secondary mt-3" style="width: 100%;">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <span>An Encoding of Interaction Nets in OCaml</span>
+                        <div class="d-flex align-items-center">
+                            <span class="badge text-bg-warning"><a class="link-body-emphasis link-underline-opacity-0" href="https://dx.doi.org/10.4204/EPTCS.417.1" target="_blank">DOI</a></span>
+                            <span class="badge text-bg-primary mx-2"><a class="link-body-emphasis link-underline-opacity-0" href="papers/gcm2024.pdf" target="_blank">PDF</a></span>
+                            <span class="badge text-bg-success"><a class="link-body-emphasis link-underline-opacity-0" href="https://doi.org/10.5281/zenodo.12633477" target="_blank">Artifact</a></span>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-title">Nikolaus Huber, Wang Yi</p>
+                        <p class="card-text">
+                            International Workshop on Graph Computation Models (GCM) 2024
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="container mt-5">
+            <div class="col-sm-12">
+                <h3 class="text-warning-emphasis" id="section-code"><i class="p-3 bi-code-slash" style="font-size: 2.3rem;"></i>Code</h3>
+            </div>
+        </div> -->
+
+        <div class="mb-5"></div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
