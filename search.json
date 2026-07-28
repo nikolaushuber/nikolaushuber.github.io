@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Mimosa: A Language for Asynchronous Implementation of Embedded Systems Software\nNikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi\nInternational Conference on Coordination Models and Languages (COORDINATION) 2025\n   \n\nDynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM\nNikolaus Huber, Naomi Spargo, Nicolas Osborne, Samuel Hym, Jan Midtgaard\nInternational Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2025\nLecture Notes in Computer Science, vol. 15698, pp. 3–22, © Springer-Verlag 2025\nETAPS Distinguished Paper & ETAPS 2025 Best Tool Paper Award\n    \n\nTiming is all you need\nS. Graf, B. Jonsson, B. Khodabandeloo, C. Huang, N. Huber, P. Rümmer, W. Yi\nHinchey, M., Steffen, B. (eds) The Combined Power of Research, Education, and Dissemination: Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday\nLecture Notes in Computer Science, vol. 15240, pp. 259–279, © Springer-Verlag 2024\n \n\nAn Encoding of Interaction Nets in OCaml\nNikolaus Huber, Wang Yi\nProceedings of the Fourteenth and Fifteenth International Workshop on Graph Computation Models (GCM 2023 and 2024)\nElectronic Proceedings in Theoretical Computer Science, vol. 417, pp. 1–16, 2025"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Nikolaus Huber",
+    "section": "",
+    "text": "PurePy defines a pure, side-effect-free subset of Python. It is aimed initially at researchers in programming languages and pedagogy, and is intended to grow into a common language for scientific computing, supporting portable applications in modelling, data processing, analysis, and visualisation.\n\n\n\n\n\n\n\n\nFortl is a statically typed programming language for scientific and numerical computing built around graded types. By enriching types with domain-specific properties, Fortl enables scientific intent, model assumptions, and correctness properties to be expressed directly in code and verified statically. With a Python-inspired syntax, it combines expressive, reliable scientific programming with a low barrier to entry for users working in the scientific computing domain.\n\n\n\n\n\n\n\n\nA verification and refactoring framework for scientific Fortran. My work focuses on extending CamFort with new methods and techniques to improve program analysis and verification for climate and scientific computing applications."
+  },
+  {
+    "objectID": "projects.html#current-projects",
+    "href": "projects.html#current-projects",
+    "title": "Nikolaus Huber",
+    "section": "",
+    "text": "PurePy defines a pure, side-effect-free subset of Python. It is aimed initially at researchers in programming languages and pedagogy, and is intended to grow into a common language for scientific computing, supporting portable applications in modelling, data processing, analysis, and visualisation.\n\n\n\n\n\n\n\n\nFortl is a statically typed programming language for scientific and numerical computing built around graded types. By enriching types with domain-specific properties, Fortl enables scientific intent, model assumptions, and correctness properties to be expressed directly in code and verified statically. With a Python-inspired syntax, it combines expressive, reliable scientific programming with a low barrier to entry for users working in the scientific computing domain.\n\n\n\n\n\n\n\n\nA verification and refactoring framework for scientific Fortran. My work focuses on extending CamFort with new methods and techniques to improve program analysis and verification for climate and scientific computing applications."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Property Based Testing with Python\nICCS Summer School lecturer (2026)\n[slides]"
+  },
+  {
+    "objectID": "teaching.html#university-of-cambridge",
+    "href": "teaching.html#university-of-cambridge",
+    "title": "Teaching",
+    "section": "",
+    "text": "Property Based Testing with Python\nICCS Summer School lecturer (2026)\n[slides]"
+  },
+  {
+    "objectID": "teaching.html#uppsala-university",
+    "href": "teaching.html#uppsala-university",
+    "title": "Teaching",
+    "section": "Uppsala University",
+    "text": "Uppsala University\n1DT106 — Programming Embedded Systems\nMain lecturer and course responsible (2021–2024)\n[slides]\n1DT108 — Programming Embedded Systems Project\nMain lecturer and course responsible (2021–2024)\n1DT063 / 1DT004 — Real Time Systems\nTeaching assistant (2020)\n1DT096 — Operating Systems and Process-Oriented Programming\nTeaching assistant (2020)"
+  },
+  {
+    "objectID": "teaching.html#luleå-university-of-technology",
+    "href": "teaching.html#luleå-university-of-technology",
+    "title": "Teaching",
+    "section": "Luleå University of Technology",
+    "text": "Luleå University of Technology\nD0001R — Microcomputer Engineering with Space Applications\nTeaching assistant (2017)\nR7018R — Spacecraft On-board Data Handling\nTeaching assistant (2017)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nikolaus Huber",
+    "section": "",
+    "text": "I’m currently a Research Associate at the University of Cambridge, where my research focuses on program verification in the context of climate science.\nPreviously, I completed my PhD in the Embedded Systems group at Uppsala University.\nMy research interests include:"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nikolaus Huber",
+    "section": "Education",
+    "text": "Education\n\nPhD Computer Science — Embedded Systems\nUppsala University, Sweden (2019–2025)\nDissertation: Types and Time: Languages, Tools, and Methods for Reliable Systems Engineering\n\n\nMSc Space Technology — Spacecraft Design\nLuleå University of Technology, Sweden (2017–2019)\nThesis: Porting Zephyr RTOS to the LEON/GRLIB SoC SPARC v8 architecture\n\n\nBSc Engineering Physics\nVienna University of Technology, Austria (2012–2017)\nThesis: Extending the Software Environment of the qBounce Platform"
+  }
+]

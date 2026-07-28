@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://www.n-huber.eu/projects/</loc><lastmod>2022-09-20T00:00:00+00:00</lastmod></url><url><loc>https://www.n-huber.eu/teaching/</loc><lastmod>2022-03-07T00:00:00+00:00</lastmod></url><url><loc>https://www.n-huber.eu/marbles/binarytree/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url><url><loc>https://www.n-huber.eu/marbles/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url><url><loc>https://www.n-huber.eu/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url><url><loc>https://www.n-huber.eu/marbles/redblacktree/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url><url><loc>https://www.n-huber.eu/about/</loc><lastmod>2021-04-27T00:00:00+00:00</lastmod></url><url><loc>https://www.n-huber.eu/dataprotection/</loc><priority>0</priority></url><url><loc>https://www.n-huber.eu/categories/</loc></url><url><loc>https://www.n-huber.eu/series/</loc></url><url><loc>https://www.n-huber.eu/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.n-huber.eu/publications.html</loc>
+    <lastmod>2026-07-28T16:01:10.676Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.n-huber.eu/projects.html</loc>
+    <lastmod>2026-07-28T15:30:05.022Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.n-huber.eu/teaching.html</loc>
+    <lastmod>2026-07-27T18:00:15.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.n-huber.eu/index.html</loc>
+    <lastmod>2026-07-28T16:02:01.657Z</lastmod>
+  </url>
+</urlset>
