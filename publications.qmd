@@ -1,0 +1,44 @@
+---
+title: "Publications"
+---
+
+**Mimosa: A Language for Asynchronous Implementation of Embedded Systems Software**  
+Nikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi  
+International Conference on Coordination Models and Languages (COORDINATION) 2025  
+[![DOI](https://img.shields.io/badge/DOI-blue?)](https://doi.org/10.1007/978-3-031-95589-1_5){target="_blank"}
+[![PDF](https://img.shields.io/badge/PDF-red?)](https://arxiv.org/pdf/2503.02557){target="_blank"}
+[![Code](https://img.shields.io/badge/Code-green?)](https://doi.org/10.5281/zenodo.14963241){target="_blank"}
+[![Slides](https://img.shields.io/badge/Slides-orange?)](https://www.n-huber.eu/coordination2025_presentation/){target="_blank"}
+
+---
+
+**Dynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM**  
+Nikolaus Huber, Naomi Spargo, Nicolas Osborne, Samuel Hym, Jan Midtgaard  
+International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2025  
+Lecture Notes in Computer Science, vol. 15698, pp. 3–22, © Springer-Verlag 2025  
+<span style="color: orange">*ETAPS Distinguished Paper & ETAPS 2025 Best Tool Paper Award*</span>  
+[![DOI](https://img.shields.io/badge/DOI-blue?)](https://doi.org/10.1007/978-3-031-90660-2_1){target="_blank"}
+[![PDF](https://img.shields.io/badge/PDF-red?)](papers/tacas2025.pdf){target="_blank"}
+[![Code](https://img.shields.io/badge/Code-green?)](https://doi.org/10.5281/zenodo.13988146){target="_blank"}
+[![GitHub](https://img.shields.io/badge/GitHub-gray?)](https://github.com/ocaml-gospel/ortac){target="_blank"}
+[![Slides](https://img.shields.io/badge/Slides-orange?)](https://www.n-huber.eu/tacas-presentation){target="_blank"}
+
+---
+
+**Timing is all you need**  
+S. Graf, B. Jonsson, B. Khodabandeloo, C. Huang, N. Huber, P. Rümmer, W. Yi  
+Hinchey, M., Steffen, B. (eds) The Combined Power of Research, Education, and Dissemination: Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday  
+Lecture Notes in Computer Science, vol. 15240, pp. 259–279, © Springer-Verlag 2024  
+[![DOI](https://img.shields.io/badge/DOI-blue?)](https://doi.org/10.1007/978-3-031-73887-6_18){target="_blank"}
+[![PDF](https://img.shields.io/badge/PDF-red?)](https://hal.science/hal-04785715/document){target="_blank"}
+
+---
+
+**An Encoding of Interaction Nets in OCaml**  
+Nikolaus Huber, Wang Yi  
+Proceedings of the Fourteenth and Fifteenth International Workshop on Graph Computation Models (GCM 2023 and 2024)  
+Electronic Proceedings in Theoretical Computer Science, vol. 417, pp. 1–16, 2025  
+[![DOI](https://img.shields.io/badge/DOI-blue?)](https://dx.doi.org/10.4204/EPTCS.417.1){target="_blank"}
+[![PDF](https://img.shields.io/badge/PDF-red?)](papers/gcm2024.pdf){target="_blank"}
+[![Code](https://img.shields.io/badge/Code-green?)](https://doi.org/10.5281/zenodo.12633477){target="_blank"}
+[![Slides](https://img.shields.io/badge/Slides-orange?)](https://www.n-huber.eu/gcm24_presentation){target="_blank"}

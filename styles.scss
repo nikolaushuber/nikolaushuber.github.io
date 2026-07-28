@@ -1,0 +1,105 @@
+/*-- scss:defaults --*/
+
+// $body-bg: #212529;
+// $body-color: #f8f9fa;
+
+// $navbar-bg: #343a40;
+
+
+/*-- scss:rules --*/
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.section-title {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-image {
+  flex: 0 0 300px;
+}
+
+.hero-image img {
+  width: 100%;
+  border-radius: 20%;
+}
+
+
+.section-title {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+
+h3 {
+  margin-top: 2rem;
+}
+
+
+hr {
+  opacity: 0.25;
+}
+
+
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: left;
+    margin-top: 0px;
+  }
+
+  .hero-image {
+    width: 300px;
+    margin-bottom: 0px;
+  }
+}
+
+.project {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+
+  margin: 2.5rem 0;
+}
+
+.project-logo {
+  flex: 0 0 120px;
+}
+
+.project-logo img {
+  width: 100%;
+}
+
+.project-content {
+  flex: 1;
+}
+
+.project-content h3 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+@media (max-width: 768px) {
+  .project {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .project-logo {
+    width: 120px;
+  }
+}

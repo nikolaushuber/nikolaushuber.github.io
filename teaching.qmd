@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+--- 
+
+## University of Cambridge
+
+**Property Based Testing with Python**  
+ICCS Summer School lecturer (2026)  
+[[slides]](https://github.com/Cambridge-ICCS/testing-workshop)
+
+## Uppsala University
+
+**1DT106 — Programming Embedded Systems**  
+Main lecturer and course responsible (2021–2024)  
+[[slides]](https://uu-1dt106.github.io)
+
+**1DT108 — Programming Embedded Systems Project**  
+Main lecturer and course responsible (2021–2024)
+
+**1DT063 / 1DT004 — Real Time Systems**  
+Teaching assistant (2020)
+
+**1DT096 — Operating Systems and Process-Oriented Programming**  
+Teaching assistant (2020)
+
+
+## Luleå University of Technology
+
+**D0001R — Microcomputer Engineering with Space Applications**  
+Teaching assistant (2017)
+
+**R7018R — Spacecraft On-board Data Handling**  
+Teaching assistant (2017)
