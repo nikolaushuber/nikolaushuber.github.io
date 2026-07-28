@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.n-huber.eu/publications.html</loc>
-    <lastmod>2026-07-28T16:01:10.676Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.n-huber.eu/projects.html</loc>
-    <lastmod>2026-07-28T15:30:05.022Z</lastmod>
+    <lastmod>2026-07-28T16:11:11.854Z</lastmod>
   </url>
   <url>
     <loc>https://www.n-huber.eu/teaching.html</loc>
-    <lastmod>2026-07-27T18:00:15.981Z</lastmod>
+    <lastmod>2026-07-28T16:11:11.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.n-huber.eu/publications.html</loc>
+    <lastmod>2026-07-28T16:11:11.854Z</lastmod>
   </url>
   <url>
     <loc>https://www.n-huber.eu/index.html</loc>
-    <lastmod>2026-07-28T16:02:01.657Z</lastmod>
+    <lastmod>2026-07-28T16:11:11.827Z</lastmod>
   </url>
 </urlset>

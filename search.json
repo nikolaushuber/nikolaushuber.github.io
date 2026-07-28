@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Mimosa: A Language for Asynchronous Implementation of Embedded Systems Software\nNikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi\nInternational Conference on Coordination Models and Languages (COORDINATION) 2025\n   \n\nDynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM\nNikolaus Huber, Naomi Spargo, Nicolas Osborne, Samuel Hym, Jan Midtgaard\nInternational Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2025\nLecture Notes in Computer Science, vol. 15698, pp. 3–22, © Springer-Verlag 2025\nETAPS Distinguished Paper & ETAPS 2025 Best Tool Paper Award\n    \n\nTiming is all you need\nS. Graf, B. Jonsson, B. Khodabandeloo, C. Huang, N. Huber, P. Rümmer, W. Yi\nHinchey, M., Steffen, B. (eds) The Combined Power of Research, Education, and Dissemination: Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday\nLecture Notes in Computer Science, vol. 15240, pp. 259–279, © Springer-Verlag 2024\n \n\nAn Encoding of Interaction Nets in OCaml\nNikolaus Huber, Wang Yi\nProceedings of the Fourteenth and Fifteenth International Workshop on Graph Computation Models (GCM 2023 and 2024)\nElectronic Proceedings in Theoretical Computer Science, vol. 417, pp. 1–16, 2025"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Nikolaus Huber",
@@ -47,6 +40,13 @@
     "title": "Teaching",
     "section": "Luleå University of Technology",
     "text": "Luleå University of Technology\nD0001R — Microcomputer Engineering with Space Applications\nTeaching assistant (2017)\nR7018R — Spacecraft On-board Data Handling\nTeaching assistant (2017)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Mimosa: A Language for Asynchronous Implementation of Embedded Systems Software\nNikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi\nInternational Conference on Coordination Models and Languages (COORDINATION) 2025\n   \n\nDynamic Verification of OCaml Software with Gospel and Ortac/QCheck-STM\nNikolaus Huber, Naomi Spargo, Nicolas Osborne, Samuel Hym, Jan Midtgaard\nInternational Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2025\nLecture Notes in Computer Science, vol. 15698, pp. 3–22, © Springer-Verlag 2025\nETAPS Distinguished Paper & ETAPS 2025 Best Tool Paper Award\n    \n\nTiming is all you need\nS. Graf, B. Jonsson, B. Khodabandeloo, C. Huang, N. Huber, P. Rümmer, W. Yi\nHinchey, M., Steffen, B. (eds) The Combined Power of Research, Education, and Dissemination: Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday\nLecture Notes in Computer Science, vol. 15240, pp. 259–279, © Springer-Verlag 2024\n \n\nAn Encoding of Interaction Nets in OCaml\nNikolaus Huber, Wang Yi\nProceedings of the Fourteenth and Fifteenth International Workshop on Graph Computation Models (GCM 2023 and 2024)\nElectronic Proceedings in Theoretical Computer Science, vol. 417, pp. 1–16, 2025"
   },
   {
     "objectID": "index.html",
