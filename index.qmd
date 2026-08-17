@@ -1,6 +1,6 @@
 ![](images/portrait3.PNG){fig-align="center" width="40%"}
 
-I'm a Research Associate at the **University of Cambridge**, where my research focuses on program verification in the context of climate science.
+I'm a Research Associate at the **University of Cambridge**, where my work focuses on program verification in the context of climate science.
 
 Previously, I completed my PhD in the Embedded Systems group at **Uppsala University**.
 
