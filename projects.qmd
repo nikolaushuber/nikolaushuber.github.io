@@ -4,7 +4,7 @@
 
 <div class="project-logo">
 
-![](images/purepy-logo.png){width=120}
+![](images/purepy-logo2.png){width=120}
 
 </div>
 
