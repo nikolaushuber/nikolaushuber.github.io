@@ -63,3 +63,23 @@ improve program analysis and verification for climate and scientific computing a
 </div>
 
 :::
+
+## Software
+
+::: {.project}
+
+<div class="project-logo">
+
+![](images/isabelle_python_logo.png){width=120}
+
+</div>
+
+<div class="project-content">
+
+### [Isabelle/Python](https://github.com/pure-py/isabelle-python-codegen)
+
+A custom Isabelle/HOL code-generation backend, roughly targeting the PurePy subset of Python.
+
+</div>
+
+:::
