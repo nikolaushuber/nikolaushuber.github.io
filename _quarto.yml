@@ -28,3 +28,6 @@ format:
       - cosmo
       - styles.scss
     toc: false
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="SIQRZz2gnNpMCePoSInoI-0BJO_OBuyjESC_wti8MzQ" />
