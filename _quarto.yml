@@ -4,6 +4,8 @@ project:
 website:
   title: "Nikolaus Huber"
   favicon: images/code-slash.svg
+  site-url: 'https://n-huber.eu'
+  site-path: '/'
 
   navbar:
     left:
