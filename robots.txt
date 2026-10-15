@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
+
 Sitemap: https://n-huber.eu/sitemap.xml
