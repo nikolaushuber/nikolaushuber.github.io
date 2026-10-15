@@ -2,6 +2,14 @@
 title: "Publications"
 ---
 
+**Compiling the Mimosa programming language to RTOS tasks**  
+Nikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi  
+Preprint  
+[![DOI](https://img.shields.io/badge/DOI-blue?)](https://doi.org/10.48550/arXiv.2510.20547){target="_blank"}
+[![PDF](https://img.shields.io/badge/PDF-red?)](https://arxiv.org/pdf/2510.20547v1){target="_blank"}
+
+---
+
 **Mimosa: A Language for Asynchronous Implementation of Embedded Systems Software**  
 Nikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi  
 International Conference on Coordination Models and Languages (COORDINATION) 2025  
