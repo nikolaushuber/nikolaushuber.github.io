@@ -2,6 +2,16 @@
 title: "Publications"
 ---
 
+**Python Code Generation for Isabelle/HOL**  
+Nikolaus Huber, Roly Perera, Dominic Orchard  
+Preprint  
+[![DOI](https://img.shields.io/badge/DOI-blue?)](https://doi.org/10.48550/arXiv.2611.22613){target="_blank"}
+[![PDF](https://img.shields.io/badge/PDF-red?)](https://arxiv.org/pdf/2611.22613){target="_blank"}
+[![Code](https://img.shields.io/badge/Code-green?)](https://zenodo.org/records/24106993){target="_blank"}
+[![GitHub](https://img.shields.io/badge/GitHub-gray?)](https://github.com/pure-py/isabelle-python-codegen){target="_blank"}
+
+---
+
 **Compiling the Mimosa programming language to RTOS tasks**  
 Nikolaus Huber, Susanne Graf, Philipp Rümmer, Wang Yi  
 Preprint  
